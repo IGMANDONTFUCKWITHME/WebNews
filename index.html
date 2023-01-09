@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Noticias</title>
+  </head>
+  <body>
+    <h1>Noticias recopiladas</h1>
+    {% for noticia in noticias %}
+      <h2>{{ noticia.titulo }}</h2>
+      <p>{{ noticia.fecha }}</p>
+      <p>{{ noticia.descripcion }}</p>
+    {% endfor %}
+  </body>
+</html>
+

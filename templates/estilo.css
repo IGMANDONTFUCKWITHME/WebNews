@@ -1,0 +1,46 @@
+/* Estilo general de la página */
+body {
+  font-family: sans-serif;
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+/* Estilo para los títulos */
+h1, h2 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #222;
+}
+
+/* Estilo para las noticias */
+.noticia {
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+/* Estilo para el título de cada noticia */
+.noticia h2 {
+  font-size: 18px;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #222;
+  color: #fff;
+}
+
+/* Estilo para la fecha de cada noticia */
+.noticia .fecha {
+  font-size: 14px;
+  color: #666;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+
+/* Estilo para la descripción de cada noticia */
+.noticia .descripcion {
+  font-size: 14px;
+  margin: 10px 0;
+  padding: 0 10px;
+  line-height: 1.5;
+}
