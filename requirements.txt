@@ -1,6 +1,6 @@
 beautifulsoup4
-Jinja2==3.1.2
+Jinja2
 request
-Flask==2.2.2
+Flask
 MarkupSafe
 
