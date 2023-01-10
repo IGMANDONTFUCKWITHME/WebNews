@@ -3,3 +3,4 @@ Jinja2
 Flask
 MarkupSafe
 Gunicorn
+requests
