@@ -1,6 +1,5 @@
 beautifulsoup4
 Jinja2
-request
 Flask
 MarkupSafe
-
+Gunicorn
